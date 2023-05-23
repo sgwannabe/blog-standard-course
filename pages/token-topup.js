@@ -15,7 +15,7 @@ export default function TokenTopup() {
   return (
     <div>
       <h1> token topup</h1>
-      <button className="btn" onClick={handleClick}>
+      <button className="btn text-white" onClick={handleClick}>
         Add Tokens
       </button>
     </div>
